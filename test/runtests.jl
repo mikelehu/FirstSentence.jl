@@ -1,4 +1,4 @@
-using FirstSentence
+#using FirstSentence
 using Test
 
 @testset "FirstSentence.jl" begin
